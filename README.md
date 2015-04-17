@@ -1,4 +1,6 @@
-#Data-science Project - Congressional speech and ideologies
+#Congressional speech and ideologies
+##Pooja Suri
+###Data-Science Assignment
 
 The model estimates a relationship between the ideologies of party members of Congress and their speeches by generating top bigrams and trigrams.
 
